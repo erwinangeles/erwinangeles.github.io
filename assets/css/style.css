@@ -170,4 +170,9 @@ footer {
 	background: #4aaaa5;
 	border-bottom: 0;
 }
-
+.floated-text{
+    margin-top: 10px;
+    padding-left: 20px;
+    float: left;
+    width: 180px;
+}
